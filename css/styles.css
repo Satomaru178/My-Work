@@ -45,3 +45,10 @@ nav a:hover {
   margin-bottom: 80px;
 }
 
+/* メインコンテンツ */
+section {
+  max-width: 960px;
+  margin: 0 auto 80px;
+  padding: 0 4%;
+}
+
