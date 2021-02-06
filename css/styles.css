@@ -34,3 +34,10 @@ nav a:hover {
   opacity: .75;
 }
 
+/* トップ画像 */
+.mainvisual img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+}
+
