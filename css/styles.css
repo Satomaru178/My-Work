@@ -58,3 +58,9 @@ section {
   margin-bottom: 60px;
 }
 
+#About>p, #About div {
+  margin: 25px 0;
+}
+
+
+
