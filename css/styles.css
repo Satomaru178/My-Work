@@ -1,5 +1,6 @@
 * {
   font-size: .95rem;
+  color: #242A2E;
 }
 
 a {
@@ -48,13 +49,13 @@ nav a:hover {
 /* メインコンテンツ */
 section {
   max-width: 960px;
-  margin: 0 auto 80px;
+  margin: 0 auto 140px;
   padding: 0 4%;
 }
 
 .section-title {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   margin-bottom: 60px;
 }
 
