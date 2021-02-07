@@ -91,6 +91,11 @@ section {
   border-bottom: 1px solid #C8C8C8;
 }
 
+#News p {
+  padding: 15px;
+  text-align: left;
+}
+
 /* フッター */
 footer {
   background-color: #242A2E;
