@@ -135,6 +135,13 @@ form>div {
   text-align: center;
 }
 
+.btn {
+  width: 200px;
+  padding: 15px;
+  background-color: #242A2E;
+  color: white;
+}
+
 /* フッター */
 footer {
   background-color: #242A2E;
