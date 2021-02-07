@@ -110,6 +110,17 @@ section {
   flex-wrap: wrap;
   margin-bottom: 30px;
 }
+
+#Contact dt {
+  width: 15%;
+  margin-bottom: 30px;
+}
+
+#Contact dd {
+  width: 85%;
+  margin-bottom: 10px;
+}
+
 /* フッター */
 footer {
   background-color: #242A2E;
