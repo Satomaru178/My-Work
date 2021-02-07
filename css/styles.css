@@ -72,6 +72,14 @@ section {
   flex-wrap: wrap;
 }
 
+#Works li {
+  width: 31%;
+  margin-bottom: 22px;
+}
+
+#Works img {
+  max-width: 100%;
+}
 
 /* フッター */
 footer {
