@@ -66,6 +66,11 @@ section {
 }
 
 /* Works */
+#Works ul {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 
 
 /* フッター */
