@@ -47,6 +47,7 @@ nav a:hover {
 }
 
 /* メインコンテンツ */
+/* 共通 */
 section {
   max-width: 960px;
   margin: 0 auto 140px;
@@ -59,10 +60,12 @@ section {
   margin-bottom: 60px;
 }
 
+/* About */
 #About>p, #About div {
   margin: 25px 0;
 }
 
+/* Works */
 
 
 /* フッター */
