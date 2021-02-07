@@ -81,6 +81,16 @@ section {
   max-width: 100%;
 }
 
+/* News */
+#News div {
+  display: flex;
+  border-top: 1px solid #C8C8C8;
+}
+
+#News div:last-child {
+  border-bottom: 1px solid #C8C8C8;
+}
+
 /* フッター */
 footer {
   background-color: #242A2E;
