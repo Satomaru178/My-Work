@@ -96,6 +96,14 @@ section {
   text-align: left;
 }
 
+.date {
+  width: 20%;
+}
+
+.text {
+  width: 80%;
+}
+
 /* フッター */
 footer {
   background-color: #242A2E;
