@@ -127,6 +127,10 @@ input, textarea {
   padding: 10px;
 }
 
+textarea {
+  height: 10rem;
+}
+
 /* フッター */
 footer {
   background-color: #242A2E;
