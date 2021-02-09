@@ -7,4 +7,10 @@
   nav a {
     font-size: .9rem;
   }
+  .pc {
+    display: none;
+  }
+  .sp {
+    display: block;
+  }
 }
