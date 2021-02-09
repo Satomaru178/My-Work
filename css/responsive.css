@@ -20,4 +20,10 @@
     font-size: 1.55rem;
     margin-bottom: 40px;
   }
+  #Works ul {
+    flex-direction: column;
+  }
+  #Works li {
+    width: 100%;
+  }
 }
