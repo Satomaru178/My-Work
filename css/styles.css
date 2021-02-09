@@ -149,6 +149,12 @@ form>div {
   padding: 15px;
   background-color: #242A2E;
   color: white;
+  border: 1px solid #242A2E;
+}
+
+.btn:hover {
+  background-color: white;
+  color: #242A2E;
 }
 
 /* フッター */
