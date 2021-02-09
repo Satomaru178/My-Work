@@ -36,4 +36,13 @@
   .date, .text {
     width: inherit;
   }
+  #Contact dl {
+    display: block;
+  }
+  #Contact dt {
+    margin: 0;
+  }
+  #Contact dd {
+    width: 100%;
+  }
 }
