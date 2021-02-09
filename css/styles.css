@@ -46,6 +46,14 @@ nav a:hover {
   margin-bottom: 80px;
 }
 
+.pc {
+  display: block;
+}
+
+.sp {
+  display: none;
+}
+
 /* メインコンテンツ */
 /* 共通 */
 section {
