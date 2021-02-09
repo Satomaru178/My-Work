@@ -26,4 +26,11 @@
   #Works li {
     width: 100%;
   }
+  #News div {
+    flex-direction: column;
+    padding: 15px;
+  }
+  #News p {
+    padding: 0;
+  }
 }
