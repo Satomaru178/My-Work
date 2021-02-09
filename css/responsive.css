@@ -13,4 +13,11 @@
   .sp {
     display: block;
   }
+  section {
+    margin-bottom: 80px;
+  }
+  .section-title {
+    font-size: 1.55rem;
+    margin-bottom: 40px;
+  }
 }
