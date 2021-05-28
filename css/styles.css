@@ -87,6 +87,7 @@ section {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  margin-bottom: 40px;
 }
 
 #Works li {
@@ -96,6 +97,25 @@ section {
 
 #Works img {
   max-width: 100%;
+}
+
+#Works .button {
+  text-align: center;
+}
+
+.button a {
+  display: inline-block;
+  width: 200px;
+  padding: 15px;
+  background-color: #242A2E;
+  color: white;
+  border: 1px solid #242A2E;
+  transition: .3s;
+}
+
+.button a:hover {
+  background-color: white;
+  color: #242A2E;
 }
 
 /* News */
@@ -158,6 +178,7 @@ form>div {
   background-color: #242A2E;
   color: white;
   border: 1px solid #242A2E;
+  transition: .3s;
 }
 
 .btn:hover {
