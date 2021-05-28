@@ -35,6 +35,14 @@ nav a:hover {
   opacity: .75;
 }
 
+.header-logo .site_title{
+  font-size: 32px;
+}
+
+.site_title:hover {
+  opacity: .8;
+}
+
 /* トップ画像 */
 .mainvisual img {
   width: 100%;
